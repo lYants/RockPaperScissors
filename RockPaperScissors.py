@@ -6,7 +6,7 @@ import math
 import random
 
 #Time variables
-prevTime = 0
+prevTime = 0 
 frame_count = 0
 #Hand variables
 thumb, index, middle, ring, pinky = 4,8,12,16,20
